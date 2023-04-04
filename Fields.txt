@@ -1,0 +1,41 @@
+CarModel, 		车型
+VIN, 				VIN
+LevelID, 			LEVEL_ID	
+QuoteDate, 		报价时间	
+Distance,			行驶里程	
+SalesPrice,		终端销售价（A）	
+AmtIns,			保险总金额	
+AmtMat,			维修金额	
+FinPrice,			最终出价	
+Acci,					是否大事故	
+MSRP, 				指导价	
+Brand, 				品牌	
+Series,				车系	
+ListYear,			上市年	
+ListMon,			上市月
+
+车型,	VIN,		LID,		报价时间,		行驶里程,		终端销售价,		保险总金额,		维修金额,		最终出价,		是否大事故,		指导价,		品牌,		车系,		上市年,		上市月
+
+
+Car Model, VIN Code, Level Code, Car Brand, Car series, Launch year, Launch month, Manufacture Suggested Retail Price(New Car), Mileage(Km), Whether it is a serious accident(Yes or No), Purchase Date(yyyy/mm/dd),  Amount of insurance, Amount of Renovation Cost(some not necessarily renovate), Cost of purchase, Sales Price After Maintenance
+
+
+Model, 						Car Model, 车型
+VIN, 						VIN Code, VIN码
+Level, 						Level Code, Level_ID
+Brand,						Car Brand, 品牌
+Series, 					Car series, 车系
+LaunchYr,				Launch year, 上市年
+LaunchMo,				Launch month, 上市月
+MSRP, 						Manufacture Suggested Retail Price(New Car), 新车指导价
+Mileage,					Mileage(Km), 行驶里程
+Accident, 					Whether it is a serious accident(Yes or No), 是否大事故
+PurchasedDate, 		Purchase Date(yyyy/mm/dd),  采购日期
+Insurance, 				Amount of insurance, 保险金额
+Renovation, 			Amount of Renovation Cost(some not necessarily renovate), 整备金额
+Cost, 						Cost of purchase, 采购价格
+SalesPrice, 				Sales Price After Maintenance 整备后销售价格
+
+
+
+
